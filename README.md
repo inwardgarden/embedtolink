@@ -1,4 +1,4 @@
-**Embed to Link** [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/video-embed-to-link-url/)    
+#**Embed to Link** [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/video-embed-to-link-url/)    
 Replaces video site (YT, Vimeo) embeds (iframe, object, embed types) with clickable URLs to those videos instead
 
 Currently only works on YT and Vimeo embeds 
