@@ -4,8 +4,7 @@ Replaces video site (YT, Vimeo) embeds (iframe, object, embed types) with clicka
 Currently only works on YT and Vimeo embeds 
 Currently no options/toggles are provided, must disable add-on to toggle it off
 
-Extension based on the following MIT licensed userscript by eight04:
-https://greasyfork.org/en/scripts/1590-no-embed-youtube
+Extension based on the following MIT licensed [userscript by eight04](https://greasyfork.org/en/scripts/1590-no-embed-youtube)
 
 Slight code updates made to detect additional embeds. 
 Note: *NO generative AI tools used in code creation or editing*
