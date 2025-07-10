@@ -2,7 +2,7 @@
 Replaces video site (YT, Vimeo) embeds (iframe, object, embed types) with clickable URLs to those videos instead
 
 Currently only works on YT and Vimeo embeds 
-Currently no options/toggles are provided, must disable add-on to toggle it off
+Currently no options/toggles are provided, must disable add-on to toggle it off     
 In addition to FF desktop, should work on Android FF 120.x and higher
 
 Extension based on the following MIT licensed [userscript by eight04](https://greasyfork.org/en/scripts/1590-no-embed-youtube)
